@@ -8,12 +8,12 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "ionix's home",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "null",
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
@@ -23,8 +23,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        title: "Ubuntu",
+        header: "Josefin Sans",
+        body: "Inter",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -45,8 +46,8 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          secondary: "#DB5AFF",
+          tertiary: "#53FFE7",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },
