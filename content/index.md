@@ -25,5 +25,4 @@ title: hi there!
 
 ---
 
-***my*** ( [steam](https://steamcommunity.com/id/ionicxenon/) | [osu](https://osu.ppy.sh/users/16084472) | [roblox](https://www.roblox.com/users/720816722/profile) ) ***profile***  
-![myabi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h4ZmlkZXYzOXcyMXVpbGxzMjJjOGp0bHJrMWJlcGZmcTJhNHIxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hIvtIMmCu1lOSqOdiW/giphy.gif)
+***my*** ( [steam](https://steamcommunity.com/id/ionicxenon/) | [osu](https://osu.ppy.sh/users/16084472) | [roblox](https://www.roblox.com/users/720816722/profile) ) ***profile***
