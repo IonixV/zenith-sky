@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "ionix's home",
+    pageTitle: "KF8FKV Main",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,14 +16,14 @@ const config: QuartzConfig = {
       provider: "null",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "me.mtpocketpullers.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Josefin Sans",
+        header: "Barlow",
         body: "Inter",
         code: "IBM Plex Mono",
       },
@@ -45,7 +45,7 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#DB5AFF",
+          secondary: "#00aaffff",
           tertiary: "#53FFE7",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
